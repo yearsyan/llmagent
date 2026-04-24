@@ -1,0 +1,20 @@
+# Binary
+/llmagent
+/llmagent.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dev config
+config.dev.yaml
+
+# Test
+*.test
+*.out
